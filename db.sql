@@ -1,4 +1,4 @@
-/* chanhe in branch  */
+/* chanhe in branch 2 */
 /* Mensaje de que el archivo ya esta en un repositorio de Git */
 -- MySQL Workbench Forward Engineering
 
